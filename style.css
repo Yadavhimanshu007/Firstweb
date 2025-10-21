@@ -1,0 +1,37 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+#img{
+  height: 80px;width: 80px;background-color: grey;border-radius: 40px;
+}
+#name{
+  font-family: cursive;color: red;font-weight: bolder;text-align: center;
+}
+#home{
+  margin-right: 30px;margin-left: 40px;color: white;
+}
+#aboutme{
+  margin-right: 30px;color: white;
+}
+#learnmore{
+  margin-right: 30px;color: white;
+}
+body{
+  background-color: darkcyan;
+}
+#img{
+  background-color: grey;
+}
+#sale{
+  color: white;font-size: 40px;font-family: 'Courier New', Courier, monospace;
+}
+#furniture{
+  color: purple;font-size: 20px;
+}
+.button{
+  text-align: center;background-color: lightpink;color: white;width: 600px;height: 40px;font-size: 25px;font-family: cursive;
+}
+#clotheimage{
+  width: 200px;height: 150px;
+}
